@@ -1,0 +1,50 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Amitoj Singh",
+      "dob": "1950-01-01T00:00:00Z",
+      "vehicle" : {
+        "type": "regular",
+        "seats": 4
+      }
+    },
+    {
+      "id": 2,
+      "name": "Aya Hijazi",
+      "dob": "1960-02-02T00:00:00Z",
+      "vehicle" : {
+        "type": "regular",
+        "seats": 4
+      }
+    },
+    {
+      "id": 3,
+      "name": "André Rieu",
+      "dob": "1970-03-03T00:00:00Z",
+      "vehicle" : {
+        "type": "van",
+        "seats": 12
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jing Wang",
+      "dob": "1980-10-10T00:00:00Z",
+      "vehicle" : {
+        "type": "regular",
+        "seats": 4,
+        "baby seats": 1
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rupin Jeremiah",
+      "dob": "1990-05-05T00:00:00Z",
+      "vehicle" : {
+        "type": "luxury",
+        "seats": 6
+      }
+    }
+  ]
+}
